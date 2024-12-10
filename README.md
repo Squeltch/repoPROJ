@@ -21,3 +21,5 @@ was actually able to figure that stuff out fairly quickly.
 
 If I had practic with Java, I'm sure I'd have all of the tools at my disposal to solve the problems I 
 faced quicker and with much better results.
+
+https://youtu.be/dTJ87c887W0
